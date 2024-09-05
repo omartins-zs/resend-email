@@ -1,1 +1,5 @@
 npm install resend
+
+Conta do Resend: gabrielmatheus@casasandreluiz.org.br
+
+URL: http://localhost:3000/api/email/send
